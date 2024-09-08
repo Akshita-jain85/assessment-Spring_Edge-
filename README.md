@@ -1,16 +1,3 @@
-# assessment_web
+# assessment-Spring Edge
+![Screenshot 2024-09-08 153826](https://github.com/user-attachments/assets/949c13d9-9cda-4b41-818d-39c6c1069371)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
